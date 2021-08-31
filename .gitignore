@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs
+/Canvas/obj
+/TestProject_ClientSide/obj
+/TestProject_Components/obj
+/TestProject_ServerSide/obj
+/Tests_Blazor.Canvas/obj
